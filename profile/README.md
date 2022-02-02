@@ -1,8 +1,8 @@
 ## Welcome! 👋
 
-You've made it to the homepage for speedcubing related open source software produced by the creators of [speedcuber.net](speedcuber.net)!
+You've made it to the homepage for speedcubing related open source software produced by the creators of [speedcuber.net](https://speedcuber.net)!
 
-We have a lot of great projects planned, so make sure to star this repository and check back from time to time to see our latest creations!
+We have a lot of great projects planned, so make sure to star one of our projects and check back from time to time to see our latest creations!
 
 <!--
 
